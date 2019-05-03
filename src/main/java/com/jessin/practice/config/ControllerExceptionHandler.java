@@ -1,4 +1,4 @@
-package com.jessin.practice.controller;
+package com.jessin.practice.config;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.servlet.HandlerExceptionResolver;
